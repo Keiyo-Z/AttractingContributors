@@ -10,3 +10,4 @@
 - rainbow
 - Black
 - Stardust Blue
+- Usuasagi/薄浅葱
